@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import React from "react";
-import ReactDOM from "react-dom";
+// import ReactDOM from "react-dom";
 import QRCode from "react-qr-code";
 
 function App() {
