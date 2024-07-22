@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-App/my2reactwithfirebase/static/css/main.f855e6bc.css",
+    "main.js": "/React-App/my2reactwithfirebase/static/js/main.7d5e53c4.js",
+    "static/js/453.dc9bc4d5.chunk.js": "/React-App/my2reactwithfirebase/static/js/453.dc9bc4d5.chunk.js",
+    "index.html": "/React-App/my2reactwithfirebase/index.html",
+    "main.f855e6bc.css.map": "/React-App/my2reactwithfirebase/static/css/main.f855e6bc.css.map",
+    "main.7d5e53c4.js.map": "/React-App/my2reactwithfirebase/static/js/main.7d5e53c4.js.map",
+    "453.dc9bc4d5.chunk.js.map": "/React-App/my2reactwithfirebase/static/js/453.dc9bc4d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7d5e53c4.js"
+  ]
+}
